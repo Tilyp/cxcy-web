@@ -10,6 +10,11 @@ export const constantRouterMap = [
     component: () => import('@/views/login'),
     hidden: true
   },
+  { path: '/home',
+    meta: { title: '首页', noCache: true },
+    component: () => import('@/views/home/index'),
+    hidden: true
+  },
   {
     path: '/404',
     component: () => import('@/views/features/404'),

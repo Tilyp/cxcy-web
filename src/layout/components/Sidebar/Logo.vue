@@ -25,7 +25,7 @@ export default {
   },
   data() {
     return {
-      title: 'ELADMIN-后台管理',
+      title: '程心程异-后台管理',
       logo: Logo
     }
   }
@@ -33,6 +33,8 @@ export default {
 </script>
 
 <style lang="scss" scoped>
+body{width: 100%;height: 100%;position: relative;background-color: rgb(204, 204, 204)}
+
 .sidebarLogoFade-enter-active {
   transition: opacity 1.5s;
 }
