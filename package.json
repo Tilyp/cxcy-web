@@ -1,7 +1,7 @@
 {
-  "name": "eladmin-web",
+  "name": "cxcy-web",
   "version": "2.4.0",
-  "description": "EL-ADMIN 前端源码",
+  "description": "cxcy",
   "author": "Zheng Jie",
   "license": "Apache-2.0",
   "scripts": {
